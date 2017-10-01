@@ -1,0 +1,2 @@
+# LinguaLook
+LinguaLook is a python program that provides users an interesting and intuitive way to test their vocabulary in learning a new langugae. Users will enter the language they would like to practice and the program will kickstart the webcam. Users will point the device to an object and will enter the name of the object in the desired language. Objects viewed by the webcam will be identified and named through the machine learning algorithm and translated into the language of choice to test the users ability to recall vocabulary. 
